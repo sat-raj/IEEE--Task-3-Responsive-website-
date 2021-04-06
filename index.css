@@ -63,7 +63,7 @@ img:hover{
     #maindiv2 {
         display: flex;
         flex-direction: column;
-        justify-content: space-around;
+        justify-content: centre;
     }
     .subdiv{
       margin: 20px auto;
